@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.dll
+ledger
+/bin/
+
+# Env / secrets
+.env
+*.local
+
+# Editor
+.vscode/
+.idea/
+
+# Test artifacts
+*.out
+coverage.*
